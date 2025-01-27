@@ -1,10 +1,13 @@
 body {
-  background: #86df83
-    url("img/spruce-40mm-artificial-grass-lawn-garden-pure-clean-rental-solutions-294366.webp")
-    repeat 50% 0;
+  background: #326717 url('/img/bg.jpg') no-repeat center top /100%;
   color: rgb(255, 255, 255);
   font-family: Arial, Helvetica;
   font-size: 20px;
+}
+#highlights {
+  background-color: rgba(0, 200, 0, 0.1);
+  padding: 20px;
+  margin: 20px 0;
 }
 h1 {
   text-align: center;
@@ -16,4 +19,8 @@ p {
 }
 img {
     width: 100px;
+}
+footer {
+  background-color: black;
+  color: white;
 }
